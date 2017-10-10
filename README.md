@@ -1,0 +1,2 @@
+# MonopolyMoneyManager
+STUB
